@@ -1,6 +1,6 @@
-# kirana
+# slawaty
 
-An app that makes buying general items from store easy
+แอพพลิเคชันการซื้อขายสินค้าเกษตรอินทรีย์
 
 ## Getting Started
 
